@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+section {
+    background-color: white;
+    border: 5px solid steelblue;
+    padding: 30px;
+    margin: 50px auto;
+    width: 250px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+a {
+    color: red;
+}
